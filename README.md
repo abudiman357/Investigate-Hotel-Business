@@ -14,7 +14,7 @@ Insights will be presented through data visualizations to make them easier to un
 The dataset contains 119,390 rows of data and 29 features, which capture the behavior of customers making hotel reservations.
 
 ## Data Source
-For those interested in exploring or using the dataset, you can access it through the provided [link](https://drive.google.com/file/d/1jq9E9nNmeStac8MJJUkpxng1e-DdGj-u/view?usp=sharing)
+For those interested in exploring or using the dataset, you can access it through the provided [link](https://drive.google.com/file/d/1XOhkQjpiCB1MM_jW0hqwPyZBXxdr-T73/view?usp=sharing)
 
 ## Tools Used
 In this project, I utilized various tools, including Jupyter Notebook for the platform, Python as the programming language, and a combination of Matplotlib and Seaborn libraries for data visualization.
